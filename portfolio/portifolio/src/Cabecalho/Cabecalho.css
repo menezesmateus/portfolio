@@ -1,0 +1,14 @@
+div.header{
+    background-color: #65727a;
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+h3{
+    margin: 0 20px;
+    cursor: pointer;
+}
