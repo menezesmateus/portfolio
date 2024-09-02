@@ -1,0 +1,21 @@
+.contato{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 94.5vh;
+    background-color: #d7dacf;    
+}
+.contatoConteudo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+}
+
+.contatoMeios {
+    justify-content: space-evenly;
+    display: flex;
+    margin-top: 60px;
+    align-items: center;
+    width: 100%;
+}
